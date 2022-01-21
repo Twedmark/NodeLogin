@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "nedb-promise": "^2.0.1"
+  }
+}
